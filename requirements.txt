@@ -9,7 +9,6 @@ keras
 Keras-Applications
 Keras-Preprocessing
 Theano
-tensorflow-cpu>=1.15.2
 Werkzeug
 future
 numpy
